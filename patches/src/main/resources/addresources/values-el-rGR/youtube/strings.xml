@@ -1152,13 +1152,6 @@ Second \"item\" text"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">Απενεργοποίηση απόκρισης δόνησης κατά τη λειτουργία «Αφήστε για ακύρωση»</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">Απενεργοποίηση απόκρισης δόνησης κατά το πατημα και κρατημα</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">Απενεργοποίηση απόκρισης δόνησης χειρονομίας ζουμ</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Έλεγχοι αναπαραγωγής πολυμέσων ειδοποίησης</string>
-  <string name="morphe_notification_media_screen_summary">Προσαρμόστε την εμφάνιση και τη συμπεριφορά του μειωμένου μεγέθους αναπαραγωγέα βίντεο</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Απόκρυψη κουμπιών Προηγούμενο &amp; Επόμενο</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Κρύβει τα κουμπιά \'Προηγούμενο\' και \'Επόμενο\' στην ειδοποίηση πολυμέσων, στην οθόνη κλειδώματος και στα χειριστήρια ακουστικών</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Απενεργοποίηση γραμμής αναζήτησης</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Αποτρέπει τη μεταφορά της γραμμής προόδου στην οθόνη κλειδώματος και στο πλαίσιο ειδοποιήσεων</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Εάν αλλάξατε πρόσφατα τα στοιχεία σύνδεσης του λογαριασμού σας, απεγκαταστήστε και εγκαταστήστε ξανά το MicroG.</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

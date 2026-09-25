@@ -1167,13 +1167,6 @@ Tryck här för att öppna DeArrow.ajay.app"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">Inaktivera haptik för att ångra sökning</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">Inaktivera haptik för långt tryck</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">Inaktivera zoomhaptik</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Mediestyrning i aviseringar</string>
-  <string name="morphe_notification_media_screen_summary">Anpassa de uppspelningskontroller som visas på låsskärmen och i aviseringspanelen</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Dölj knapparna Föregående &amp; Nästa</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Döljer knapparna Föregående och Nästa i medieaviseringen, på låsskärmen och för hörlursstyrning</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Inaktivera sökreglaget</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Förhindrar att sökreglaget kan dras på låsskärmen och i aviseringspanelen</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Om du nyligen har ändrat dina inloggningsuppgifter, avinstallera och installera om MicroG.</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

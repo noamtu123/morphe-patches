@@ -1165,13 +1165,6 @@ Tik hier om meer te weten te komen over DeArrow"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">Haptiek voor ongedaan maken van zoeken uitschakelen</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">Uitschakelen tap en houd haptiek</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">Zoom-haptics uitschakelen</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Melding media bedieningselementen</string>
-  <string name="morphe_notification_media_screen_summary">Pas het uiterlijk en het gedrag van de video speler aan op je vergrendelscherm en meldingspaneel</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Verberg Vorige &amp; Volgende knoppen</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Verbergt de Vorige en Volgende knoppen in mediasnelding, vergrendelscherm en koptelefoonbedieningselementen</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Zoekbalk uitschakelen</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Voorkomt dat de media voortgangsbalk op het vergrendelscherm en meldingspaneel wordt gesleept</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Als u onlangs de inloggegevens van uw account hebt gewijzigd, verwijder dan MicroG en installeer het opnieuw.</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

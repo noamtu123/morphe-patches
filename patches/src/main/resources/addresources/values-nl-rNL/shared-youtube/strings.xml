@@ -130,6 +130,7 @@ Om in te loggen, druk je op 'doorgaan' onderaan"</string>
   <string name="morphe_oauth2_connection_failure_auth_error">Kan niet aanmelden bij VR: %s</string>
   <string name="morphe_oauth2_toast_reset">Uitgelogd van Android VR</string>
   <string name="morphe_oauth2_toast_invalid">Ongeldig VR aanmeldtoken, probeer opnieuw aan te melden bij VR</string>
+  <!-- misc.medianotification.mediaNotificationControlsPatch -->
   <!-- misc.quic.disableQUICProtocolPatch -->
   <string name="morphe_disable_quic_protocol_title">Uitschakelen van het QUIC-protocol</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->

@@ -1167,13 +1167,6 @@ Tocca qui per saperne di più su DeArrow"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">Disabilita feedback aptico per l\'annullamento dell\'avanzamento</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">Disabilita feedback aptico pressione prolungata</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">Disabilita feedback aptico zoom</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Controlli multimediali delle notifiche</string>
-  <string name="morphe_notification_media_screen_summary">Personalizza i controlli di riproduzione visualizzati nella schermata di blocco e nel pannello delle notifiche</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Nascondi i pulsanti Precedente &amp; Successivo</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Nasconde i pulsanti Precedente e Successivo nelle notifiche multimediali, nella schermata di blocco e per i controlli delle cuffie</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Disabilita la barra di avanzamento</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Impedisce di trascinare la barra di avanzamento sulla schermata di blocco e nel pannello delle notifiche</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Se di recente hai modificato i dettagli di accesso al tuo account, disinstalla e reinstalla MicroG.</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

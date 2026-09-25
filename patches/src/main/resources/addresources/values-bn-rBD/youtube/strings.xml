@@ -1152,13 +1152,6 @@ DeArrow.ajay.app ওপেন করতে এখানে ট্যাপ ক�
   <string name="morphe_disable_haptic_feedback_seek_undo_title">সীক আনডু কম্পন নিষ্ক্রিয় করুন</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">ট্যাপ এবং হোল্ড হ্যাপ্টিক্স নিষ্ক্রিয় করুন</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">জুম করার কম্পন নিষ্ক্রিয় করুন</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">নোটিফিকেশন মিডিয়া কন্ট্রোল</string>
-  <string name="morphe_notification_media_screen_summary">আপনার পছন্দের মিউজিক কন্ট্রোলগুলোর চেহারা এবং আচরণ কাস্টমাইজ করুন</string>
-  <string name="morphe_hide_notification_media_prev_next_title">আগের &amp; পরের বোতাম লুকান</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">মিডিয়া বিজ্ঞপ্তি, লক স্ক্রিন এবং হেডফোন কন্ট্রোলগুলিতে আগের এবং পরের বোতামগুলি লুকায়</string>
-  <string name="morphe_disable_notification_media_seekbar_title">সিকবার নিষ্ক্রিয় করুন</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">লক স্ক্রিন এবং বিজ্ঞপ্তি প্যানেলে Seekbar সরানোর থেকে বিরত করে</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">আপনি যদি সম্প্রতি আপনার অ্যাকাউন্ট লগইন বিশদ পরিবর্তন করে থাকেন, তবে MicroG আনইনস্টল করুন এবং পুনরায় ইনস্টল করুন।</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

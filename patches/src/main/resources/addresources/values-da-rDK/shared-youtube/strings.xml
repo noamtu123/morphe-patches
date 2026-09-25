@@ -136,6 +136,7 @@ For at logge ind, tryk på fortsæt nedenfor"</string>
   <string name="morphe_oauth2_connection_failure_auth_error">Kan ikke logge ind på VR: %s</string>
   <string name="morphe_oauth2_toast_reset">Logget ud af Android VR</string>
   <string name="morphe_oauth2_toast_invalid">Ugyldigt VR-logge-ind token, prøv at logge ind i VR igen</string>
+  <!-- misc.medianotification.mediaNotificationControlsPatch -->
   <!-- misc.quic.disableQUICProtocolPatch -->
   <string name="morphe_disable_quic_protocol_title">Deaktiver QUIC-protokol</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->

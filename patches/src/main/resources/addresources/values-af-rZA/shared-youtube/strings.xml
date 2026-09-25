@@ -136,6 +136,8 @@ Om aan te meld, druk voort hieronder"</string>
   <string name="morphe_oauth2_connection_failure_auth_error">Kan nie by VR aanteken nie: %s</string>
   <string name="morphe_oauth2_toast_reset">Uitgeklok by Android VR</string>
   <string name="morphe_oauth2_toast_invalid">Ongeldige VR-aantekentokken, probeer om weer by VR aan te teken</string>
+  <!-- misc.medianotification.mediaNotificationControlsPatch -->
+  <string name="morphe_notification_media_screen_title">Kennisgewing-mediabediening</string>
   <!-- misc.quic.disableQUICProtocolPatch -->
   <string name="morphe_disable_quic_protocol_title">Deaktiveer QUIC-protokol</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->

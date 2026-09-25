@@ -1167,13 +1167,6 @@ DeArrow.ajay.app खोलने के लिए यहां टैप कर�
   <string name="morphe_disable_haptic_feedback_seek_undo_title">खोज पूर्ववत haptिक्स अक्षम करें</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">डिसेबल टैप ऐंड होल्ड हॅप्टिक्स</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">ज़ूम haptिक्स अक्षम करें</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">सूचना मीडिया नियंत्रण</string>
-  <string name="morphe_notification_media_screen_summary">अपने लॉक स्क्रीन और अधिसूचना पैनल पर प्रदर्शित होने वाले प्लेबैक नियंत्रणों को अनुकूलित करें</string>
-  <string name="morphe_hide_notification_media_prev_next_title">पिछले &amp; अगले बटन छिपाएँ</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">मीडिया अधिसूचना, लॉक स्क्रीन और हेडफ़ोन नियंत्रण में पिछला और अगला बटन छुपाता है</string>
-  <string name="morphe_disable_notification_media_seekbar_title">सीकबार अक्षम करें</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">लॉक स्क्रीन और अधिसूचना पैनल पर सीकबार को खींचने से रोकता है</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">यदि आपने हाल ही में अपना खाता लॉगिन विवरण बदल दिया है, तो MicroG को अनइंस्टॉल और फिर से इंस्टॉल करें।</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

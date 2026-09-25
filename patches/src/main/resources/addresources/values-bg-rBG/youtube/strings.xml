@@ -1167,13 +1167,6 @@ Second \"item\" text"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">Музика</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">Изключи вибрации при натискане и държане</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">Плейлисти</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Управление на мултимедия от известията</string>
-  <string name="morphe_notification_media_screen_summary">Персонализирайте контролите за възпроизвеждане, показани на заключения екран и панела за уведомяване</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Скрий бутоните за предишен &amp; следващ</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Скрива предишните и следващите бутони в известието, на заключения екран и в контролите за слушалки</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Деактивирай лентата за търсене</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Предотвратява плъзгането на лентата за търсене на заключения екран и панела за известия</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Спорт</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

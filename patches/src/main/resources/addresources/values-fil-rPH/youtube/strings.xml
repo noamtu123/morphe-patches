@@ -1165,13 +1165,6 @@ I-tap dito upang buksan ang DeArrow.ajay.app"</string>
   <string name="morphe_disable_haptic_feedback_seek_undo_title">I-disable ang haptics ng pag-undo sa paghahanap</string>
   <string name="morphe_disable_haptic_feedback_tap_and_hold_title">I-disable ang mga haptic na feedback sa pag-tap at pagpindot</string>
   <string name="morphe_disable_haptic_feedback_zoom_title">I-disable ang haptics ng pag-zoom</string>
-  <!-- misc.medianotification.mediaNotificationControlsPatch -->
-  <string name="morphe_notification_media_screen_title">Mga kontrol sa media ng abiso</string>
-  <string name="morphe_notification_media_screen_summary">I-customize ang mga playback control na ipinapakita sa iyong lock screen at notification panel</string>
-  <string name="morphe_hide_notification_media_prev_next_title">Itago ang mga pindutan ng Nakaraan &amp; Susunod</string>
-  <string name="morphe_hide_notification_media_prev_next_summary">Itinatago ang mga Previous at Next button sa media notification, lock screen, at headphone controls</string>
-  <string name="morphe_disable_notification_media_seekbar_title">Huwag paganahin ang seekbar</string>
-  <string name="morphe_disable_notification_media_seekbar_summary">Pinipigilan ang pag-drag ng seekbar sa lock screen at notification panel</string>
   <!-- misc.gms.accountCredentialsInvalidTextPatch -->
   <string name="microg_offline_account_login_error">Kung kamakailan mo binago ang iyong mga detalye sa pag-login ng account, i-uninstall at i-reinstall ang MicroG.</string>
   <!-- misc.links.bypassLinkRedirectsPatch -->

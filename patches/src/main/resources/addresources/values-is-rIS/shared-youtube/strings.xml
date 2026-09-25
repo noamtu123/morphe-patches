@@ -136,6 +136,7 @@ Til að skrá þig inn ýttu á halda áfram hér að neðan"</string>
   <string name="morphe_oauth2_connection_failure_auth_error">Ekki hægt að skrá inn á VR: %s</string>
   <string name="morphe_oauth2_toast_reset">Skráð út af Android VR</string>
   <string name="morphe_oauth2_toast_invalid">Ógild VR innskráningartakinn, prófaðu að skrá þig inn á VR aftur</string>
+  <!-- misc.medianotification.mediaNotificationControlsPatch -->
   <!-- misc.quic.disableQUICProtocolPatch -->
   <string name="morphe_disable_quic_protocol_title">Slökktu á QUIC samskiptareglum</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->

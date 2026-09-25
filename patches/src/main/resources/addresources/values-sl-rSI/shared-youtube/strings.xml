@@ -136,6 +136,7 @@ Pritisnite \"nadaljujte\", da se prijavite"</string>
   <string name="morphe_oauth2_connection_failure_auth_error">Ni se mogoče prijaviti v VR: %s</string>
   <string name="morphe_oauth2_toast_reset">Odjavljeni ste iz VR</string>
   <string name="morphe_oauth2_toast_invalid">Neveljavni znak prijave v VR, poskusite se znova prijaviti v VR</string>
+  <!-- misc.medianotification.mediaNotificationControlsPatch -->
   <!-- misc.quic.disableQUICProtocolPatch -->
   <string name="morphe_disable_quic_protocol_title">Onemogoči protokol QUIC</string>
   <!-- misc.audio.drc.disableDRCAudioPatch  -->
